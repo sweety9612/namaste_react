@@ -1,0 +1,23 @@
+{
+  "name": "namste_react",
+  "version": "1.0.0",
+  "description": "this is namaste react course",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweety9612/namaste_react.git"
+  },
+  "keywords": [
+    "react",
+    "nmaste"
+  ],
+  "author": "sweety",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweety9612/namaste_react/issues"
+  },
+  "homepage": "https://github.com/sweety9612/namaste_react#readme"
+}
