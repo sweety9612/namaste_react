@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sweety9612/namaste_react/issues"
   },
-  "homepage": "https://github.com/sweety9612/namaste_react#readme"
+  "homepage": "https://github.com/sweety9612/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
 }
