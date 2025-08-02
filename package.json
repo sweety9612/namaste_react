@@ -2,7 +2,6 @@
   "name": "namste_react",
   "version": "1.0.0",
   "description": "this is namaste react course",
-  "main": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -22,5 +21,9 @@
   "homepage": "https://github.com/sweety9612/namaste_react#readme",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
   }
 }
